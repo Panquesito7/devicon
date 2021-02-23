@@ -3,3 +3,6 @@ rules:
   - base: develop
     upstream: devicons:develop
     mergeMethod: hardreset
+  - base: master
+    upstream: devicons:master
+    mergeMethod: hardreset
