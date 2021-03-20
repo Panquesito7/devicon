@@ -10,7 +10,7 @@ html {
 
 .discord-logo:before {
     content: "";
-    background-image: url("https://user-images.githubusercontent.com/51391473/111853347-449b1c80-88e0-11eb-833d-da9f1f8f771e.png");
+    background-image: url("discord-logo.svg");
     height: 40px;
     width: 40px;
     display: inline-block;
